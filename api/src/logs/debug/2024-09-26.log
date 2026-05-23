@@ -1,0 +1,159 @@
+2024-09-26 01:20:30 info: ====================================
+2024-09-26 01:20:30 info: ========= ENV: development =========
+2024-09-26 01:20:30 info: 🚀 Server listening on the port 4500
+2024-09-26 01:20:30 info: ====================================
+2024-09-26 01:20:54 info: ====================================
+2024-09-26 01:20:54 info: ========= ENV: development =========
+2024-09-26 01:20:54 info: 🚀 Server listening on the port 4500
+2024-09-26 01:20:54 info: ====================================
+2024-09-26 01:23:22 info: ====================================
+2024-09-26 01:23:22 info: ========= ENV: development =========
+2024-09-26 01:23:22 info: 🚀 Server listening on the port 4500
+2024-09-26 01:23:22 info: ====================================
+2024-09-26 01:28:27 info: ====================================
+2024-09-26 01:28:27 info: ========= ENV: development =========
+2024-09-26 01:28:27 info: 🚀 Server listening on the port 4500
+2024-09-26 01:28:27 info: ====================================
+2024-09-26 01:35:25 info: ====================================
+2024-09-26 01:35:25 info: ========= ENV: development =========
+2024-09-26 01:35:25 info: 🚀 Server listening on the port 4500
+2024-09-26 01:35:25 info: ====================================
+2024-09-26 01:36:27 info: ====================================
+2024-09-26 01:36:27 info: ========= ENV: development =========
+2024-09-26 01:36:27 info: 🚀 Server listening on the port 4500
+2024-09-26 01:36:27 info: ====================================
+2024-09-26 01:36:41 info: ====================================
+2024-09-26 01:36:41 info: ========= ENV: development =========
+2024-09-26 01:36:41 info: 🚀 Server listening on the port 4500
+2024-09-26 01:36:41 info: ====================================
+2024-09-26 01:36:42 info: ====================================
+2024-09-26 01:36:42 info: ========= ENV: development =========
+2024-09-26 01:36:42 info: 🚀 Server listening on the port 4500
+2024-09-26 01:36:42 info: ====================================
+2024-09-26 01:36:43 info: ====================================
+2024-09-26 01:36:43 info: ========= ENV: development =========
+2024-09-26 01:36:43 info: 🚀 Server listening on the port 4500
+2024-09-26 01:36:43 info: ====================================
+2024-09-26 01:36:50 info: ====================================
+2024-09-26 01:36:50 info: ========= ENV: development =========
+2024-09-26 01:36:50 info: 🚀 Server listening on the port 4500
+2024-09-26 01:36:50 info: ====================================
+2024-09-26 01:36:50 info: ====================================
+2024-09-26 01:36:50 info: ========= ENV: development =========
+2024-09-26 01:36:50 info: 🚀 Server listening on the port 4500
+2024-09-26 01:36:50 info: ====================================
+2024-09-26 01:41:41 info: ====================================
+2024-09-26 01:41:41 info: ========= ENV: development =========
+2024-09-26 01:41:41 info: 🚀 Server listening on the port 4500
+2024-09-26 01:41:41 info: ====================================
+2024-09-26 01:42:04 info: [0mOPTIONS /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [32m204[0m 1.257 ms - 0[0m
+2024-09-26 01:42:04 info: [0mOPTIONS /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [32m204[0m 0.155 ms - 0[0m
+2024-09-26 01:42:04 info: [0mOPTIONS /properties?featured=true&limit=5 [32m204[0m 0.064 ms - 0[0m
+2024-09-26 01:42:04 info: [0mGET /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [32m200[0m 106.315 ms - 170[0m
+2024-09-26 01:42:04 info: [0mGET /properties?featured=true&limit=5 [32m200[0m 104.730 ms - 2[0m
+2024-09-26 01:42:04 info: [0mGET /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [32m200[0m 247.791 ms - 176[0m
+2024-09-26 01:42:05 info: [0mGET /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [0m-[0m - ms - -[0m
+2024-09-26 01:42:05 info: [0mGET /properties?featured=true&limit=5 [0m-[0m - ms - -[0m
+2024-09-26 01:42:05 info: [0mGET /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [0m-[0m - ms - -[0m
+2024-09-26 01:42:05 info: [0mGET /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [32m200[0m 34.822 ms - 176[0m
+2024-09-26 01:42:05 info: [0mGET /properties?featured=true&limit=5 [32m200[0m 56.494 ms - 2[0m
+2024-09-26 01:42:06 info: [0mGET /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [32m200[0m 223.335 ms - 170[0m
+2024-09-26 01:42:17 info: [0mOPTIONS /signup [32m204[0m 0.302 ms - 0[0m
+2024-09-26 01:42:17 info: [0mPOST /signup [32m201[0m 189.689 ms - 241[0m
+2024-09-26 01:42:26 info: [0mOPTIONS /login [32m204[0m 0.161 ms - 0[0m
+2024-09-26 01:42:26 info: [0mPOST /login [32m200[0m 107.323 ms - 441[0m
+2024-09-26 01:42:26 info: [0mOPTIONS /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [32m204[0m 0.087 ms - 0[0m
+2024-09-26 01:42:26 info: [0mOPTIONS /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [32m204[0m 0.065 ms - 0[0m
+2024-09-26 01:42:26 info: [0mOPTIONS /properties?featured=true&limit=5 [32m204[0m 0.054 ms - 0[0m
+2024-09-26 01:42:26 info: [0mGET /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [36m304[0m 32.206 ms - -[0m
+2024-09-26 01:42:26 info: [0mGET /properties?featured=true&limit=5 [36m304[0m 50.568 ms - -[0m
+2024-09-26 01:42:26 info: [0mGET /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [36m304[0m 228.003 ms - -[0m
+2024-09-26 01:42:27 info: [0mGET /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [36m304[0m 34.300 ms - -[0m
+2024-09-26 01:42:28 info: [0mGET /properties?featured=true&limit=5 [36m304[0m 200.777 ms - -[0m
+2024-09-26 01:42:28 info: [0mGET /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [36m304[0m 225.192 ms - -[0m
+2024-09-26 01:42:31 info: [0mOPTIONS /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [32m204[0m 0.404 ms - 0[0m
+2024-09-26 01:42:31 info: [0mOPTIONS /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [32m204[0m 0.150 ms - 0[0m
+2024-09-26 01:42:31 info: [0mOPTIONS /properties?featured=true&limit=5 [32m204[0m 0.103 ms - 0[0m
+2024-09-26 01:42:32 info: [0mGET /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [36m304[0m 35.179 ms - -[0m
+2024-09-26 01:42:32 info: [0mGET /properties?featured=true&limit=5 [36m304[0m 26.291 ms - -[0m
+2024-09-26 01:42:32 info: [0mGET /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [36m304[0m 33.354 ms - -[0m
+2024-09-26 01:42:44 info: [0mOPTIONS /properties?city=mumbai [32m204[0m 0.120 ms - 0[0m
+2024-09-26 01:42:44 info: [0mGET /properties?city=mumbai [32m200[0m 33.782 ms - 2[0m
+2024-09-26 01:42:57 info: [0mOPTIONS /properties?city=new+york [32m204[0m 0.259 ms - 0[0m
+2024-09-26 01:42:57 info: [0mGET /properties?city=new+york [32m200[0m 38.335 ms - 2[0m
+2024-09-26 01:43:09 info: [0mOPTIONS /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [32m204[0m 0.140 ms - 0[0m
+2024-09-26 01:43:09 info: [0mOPTIONS /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [32m204[0m 0.084 ms - 0[0m
+2024-09-26 01:43:09 info: [0mOPTIONS /properties?featured=true&limit=5 [32m204[0m 0.073 ms - 0[0m
+2024-09-26 01:43:09 info: [0mGET /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [36m304[0m 33.809 ms - -[0m
+2024-09-26 01:43:09 info: [0mGET /properties?featured=true&limit=5 [36m304[0m 26.936 ms - -[0m
+2024-09-26 01:43:09 info: [0mGET /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [36m304[0m 33.210 ms - -[0m
+2024-09-26 01:43:30 info: [0mOPTIONS /properties?city=new+york [32m204[0m 0.093 ms - 0[0m
+2024-09-26 01:43:30 info: [0mOPTIONS /properties?city=mumbai [32m204[0m 0.078 ms - 0[0m
+2024-09-26 01:43:30 info: [0mGET /properties?city=new+york [36m304[0m 32.207 ms - -[0m
+2024-09-26 01:43:30 info: [0mGET /properties?city=mumbai [36m304[0m 31.935 ms - -[0m
+2024-09-26 01:43:33 info: [0mOPTIONS /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [32m204[0m 0.098 ms - 0[0m
+2024-09-26 01:43:33 info: [0mOPTIONS /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [32m204[0m 0.072 ms - 0[0m
+2024-09-26 01:43:33 info: [0mOPTIONS /properties?featured=true&limit=5 [32m204[0m 0.062 ms - 0[0m
+2024-09-26 01:43:33 info: [0mGET /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [36m304[0m 33.320 ms - -[0m
+2024-09-26 01:43:33 info: [0mGET /properties?featured=true&limit=5 [36m304[0m 26.287 ms - -[0m
+2024-09-26 01:43:33 info: [0mGET /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [36m304[0m 33.576 ms - -[0m
+2024-09-26 01:43:36 info: [0mOPTIONS /properties?city=mumbai [32m204[0m 0.215 ms - 0[0m
+2024-09-26 01:43:36 info: [0mOPTIONS /properties?city=los+angeles [32m204[0m 0.211 ms - 0[0m
+2024-09-26 01:43:36 info: [0mGET /properties?city=los+angeles [32m200[0m 28.990 ms - 2[0m
+2024-09-26 01:43:36 info: [0mGET /properties?city=mumbai [36m304[0m 33.940 ms - -[0m
+2024-09-26 01:43:47 info: [0mOPTIONS /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [32m204[0m 0.101 ms - 0[0m
+2024-09-26 01:43:47 info: [0mOPTIONS /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [32m204[0m 0.125 ms - 0[0m
+2024-09-26 01:43:47 info: [0mOPTIONS /properties?featured=true&limit=5 [32m204[0m 0.100 ms - 0[0m
+2024-09-26 01:43:47 info: [0mGET /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [36m304[0m 36.727 ms - -[0m
+2024-09-26 01:43:47 info: [0mGET /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [36m304[0m 35.121 ms - -[0m
+2024-09-26 01:43:47 info: [0mGET /properties?featured=true&limit=5 [36m304[0m 30.187 ms - -[0m
+2024-09-26 01:51:45 info: ====================================
+2024-09-26 01:51:45 info: ========= ENV: development =========
+2024-09-26 01:51:45 info: 🚀 Server listening on the port 4500
+2024-09-26 01:51:45 info: ====================================
+2024-09-26 01:52:36 info: [0mOPTIONS /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [32m204[0m 0.502 ms - 0[0m
+2024-09-26 01:52:36 info: [0mOPTIONS /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [32m204[0m 0.078 ms - 0[0m
+2024-09-26 01:52:36 info: [0mOPTIONS /properties?featured=true&limit=5 [32m204[0m 0.047 ms - 0[0m
+2024-09-26 01:52:36 info: [0mGET /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [36m304[0m 101.341 ms - -[0m
+2024-09-26 01:52:36 info: [0mGET /properties?featured=true&limit=5 [36m304[0m 100.602 ms - -[0m
+2024-09-26 01:52:36 info: [0mGET /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [36m304[0m 207.028 ms - -[0m
+2024-09-26 01:52:52 info: [0mOPTIONS /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [32m204[0m 0.071 ms - 0[0m
+2024-09-26 01:52:52 info: [0mOPTIONS /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [32m204[0m 0.108 ms - 0[0m
+2024-09-26 01:52:52 info: [0mOPTIONS /properties?featured=true&limit=5 [32m204[0m 0.053 ms - 0[0m
+2024-09-26 01:52:52 info: [0mGET /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [36m304[0m 72.494 ms - -[0m
+2024-09-26 01:52:52 info: [0mGET /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [36m304[0m 187.640 ms - -[0m
+2024-09-26 01:52:52 info: [0mGET /properties?featured=true&limit=5 [36m304[0m 210.580 ms - -[0m
+2024-09-26 12:43:13 info: ====================================
+2024-09-26 12:43:13 info: ========= ENV: development =========
+2024-09-26 12:43:13 info: 🚀 Server listening on the port 4500
+2024-09-26 12:43:13 info: ====================================
+2024-09-26 12:43:38 info: [0mOPTIONS /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [32m204[0m 0.504 ms - 0[0m
+2024-09-26 12:43:38 info: [0mOPTIONS /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [32m204[0m 0.162 ms - 0[0m
+2024-09-26 12:43:38 info: [0mOPTIONS /properties?featured=true&limit=5 [32m204[0m 0.073 ms - 0[0m
+2024-09-26 12:43:38 info: [0mGET /properties?featured=true&limit=5 [36m304[0m 100.432 ms - -[0m
+2024-09-26 12:43:38 info: [0mGET /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [36m304[0m 104.309 ms - -[0m
+2024-09-26 12:43:38 info: [0mGET /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [36m304[0m 214.005 ms - -[0m
+2024-09-26 12:43:50 info: [0mOPTIONS /login [32m204[0m 0.265 ms - 0[0m
+2024-09-26 12:43:50 info: [0mPOST /login [32m200[0m 121.302 ms - 441[0m
+2024-09-26 12:43:50 info: [0mOPTIONS /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [32m204[0m 0.139 ms - 0[0m
+2024-09-26 12:43:50 info: [0mOPTIONS /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [32m204[0m 0.050 ms - 0[0m
+2024-09-26 12:43:50 info: [0mOPTIONS /properties?featured=true&limit=5 [32m204[0m 0.052 ms - 0[0m
+2024-09-26 12:43:50 info: [0mGET /properties?featured=true&limit=5 [36m304[0m 69.620 ms - -[0m
+2024-09-26 12:43:50 info: [0mGET /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [36m304[0m 188.661 ms - -[0m
+2024-09-26 12:43:50 info: [0mGET /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [36m304[0m 196.441 ms - -[0m
+2024-09-26 12:43:52 info: [0mGET /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [36m304[0m 35.751 ms - -[0m
+2024-09-26 12:43:52 info: [0mGET /properties?featured=true&limit=5 [36m304[0m 45.450 ms - -[0m
+2024-09-26 12:43:52 info: [0mGET /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [36m304[0m 246.399 ms - -[0m
+2024-09-26 20:05:35 info: ====================================
+2024-09-26 20:05:35 info: ========= ENV: development =========
+2024-09-26 20:05:35 info: 🚀 Server listening on the port 4500
+2024-09-26 20:05:35 info: ====================================
+2024-09-26 20:05:58 info: [0mOPTIONS /properties?countByCities=goa,mumbai,lonavala,bangaluru,jaipur,pondicherry [32m204[0m 0.668 ms - 0[0m
+2024-09-26 20:05:58 info: [0mOPTIONS /properties?countByPropertyTypes=hotel,resort,apartment,villa,cabin,cottage [32m204[0m 0.070 ms - 0[0m
+2024-09-26 20:05:58 info: [0mOPTIONS /properties?featured=true&limit=5 [32m204[0m 0.056 ms - 0[0m
+2024-09-26 20:06:06 info: [0mOPTIONS /properties?city= [32m204[0m 0.120 ms - 0[0m
+2024-09-26 20:06:06 info: [0mOPTIONS /properties?city=brooklyn [32m204[0m 0.190 ms - 0[0m
+2024-09-26 20:09:33 info: ====================================
+2024-09-26 20:09:33 info: ========= ENV: development =========
+2024-09-26 20:09:33 info: 🚀 Server listening on the port 4500
+2024-09-26 20:09:33 info: ====================================
